@@ -1,0 +1,30 @@
+#center {
+  position:relative;
+  top:80px;
+  width:850px;
+  left:50%;
+  margin-left:-364px;
+  padding-bottom:40px;
+
+}
+
+centeredImage {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+
+}
+
+img.center {
+        display: block;
+        margin: 0 auto;
+        box-shadow: 3px 3px 10px #000;
+}
+
+object.center {
+        display: block;
+        margin: 0 auto;
+        box-shadow: 3px 3px 10px #000;
+}
+
